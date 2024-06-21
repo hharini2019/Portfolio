@@ -80,7 +80,7 @@ section{
 	position:relative;
 	height:100vh;
 	width:100%;
-    background-image:Url(/portfolio/img/new.jpg);
+        background-color:darkgrey;
 	background-size:cover;
     background-position:center;
     display:flex;
